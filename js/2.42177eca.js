@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{53:function(e,t,n){"use strict";n.r(t),n.d(t,"header",(function(){return a})),n.d(t,"__html",(function(){return c}));const a={title:"React Development Zero",author:"lightyen",date:new Date("2020-05-03T12:28:59.337Z"),description:"React - 第零篇",tags:["react"]},c="<h1>React 開發 - 第零篇</h1>\n";t.default={header:a,__html:c}}}]);
